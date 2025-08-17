@@ -506,8 +506,3 @@ else:
 
 st.write("---")
 st.caption("Prototype built by Mohamed gamal othman — Streamlit AutoML prototype. For production: move AutoML to background workers, store artifacts in cloud storage, add authentication and quota controls.")
-
-"""***لازم التثبيت لتحويل من HTML ل PDF***"""
-
-sudo apt-get update
-sudo apt-get install -y wkhtmltopdf
