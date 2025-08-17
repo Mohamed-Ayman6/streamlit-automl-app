@@ -507,10 +507,6 @@ else:
 st.write("---")
 st.caption("Prototype built by Mohamed gamal othman — Streamlit AutoML prototype. For production: move AutoML to background workers, store artifacts in cloud storage, add authentication and quota controls.")
 
-!streamlit run "prototype.py" & npx localtunnel --port 8501
-
-!curl ipinfo.io/ip
-
 """***لازم التثبيت لتحويل من HTML ل PDF***"""
 
 sudo apt-get update
