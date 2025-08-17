@@ -8,5 +8,5 @@ ydata-profiling==4.1.2
 pdfkit
 joblib
 scikit-learn==1.2.2
-pycaret==3.0.0
+pycaret
 flaml
