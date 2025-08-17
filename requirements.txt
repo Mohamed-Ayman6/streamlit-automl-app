@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+ydata-profiling
+pdfkit
+joblib
+scikit-learn
+pycaret[full]
+flaml
